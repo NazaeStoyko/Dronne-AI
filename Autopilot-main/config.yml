@@ -1,0 +1,6 @@
+camera:
+  in_front: True # directional of the camera view
+  h_angle: 66 # horizontal AOV in degree
+  v_angle: 41 # vertical AOV in degree
+vehicle:
+  velocity: 3 # m/sec
